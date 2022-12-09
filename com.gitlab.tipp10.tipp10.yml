@@ -1,6 +1,6 @@
 app-id: com.gitlab.tipp10.tipp10
 runtime: org.kde.Platform
-runtime-version: '6.3'
+runtime-version: '6.4'
 sdk: org.kde.Sdk
 command: tipp10
 finish-args:
