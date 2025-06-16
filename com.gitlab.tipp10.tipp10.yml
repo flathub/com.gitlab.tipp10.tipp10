@@ -1,6 +1,6 @@
 app-id: com.gitlab.tipp10.tipp10
 runtime: org.kde.Platform
-runtime-version: '6.8'
+runtime-version: '6.9'
 sdk: org.kde.Sdk
 command: tipp10
 finish-args:
@@ -20,5 +20,5 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/tipp10/tipp10.git
-        tag: v3.3.3
-        commit: 7dbbc2b2eb759d883d016e2fe37e7c3ae68deb2f
+        tag: v3.3.4
+        commit: 63ce7269d9c0448e36dd926cfe651b99d6734a3a
